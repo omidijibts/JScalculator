@@ -1,0 +1,14 @@
+*{
+    text-decoration: none;
+}
+body{
+    font-size: 100%;
+    box-sizing: border-box;
+    overflow: auto;
+    padding: 0px;margin-left: 5%;margin-right: 5%;
+}
+.content{
+    background-color: beige;
+    border: 2px solid green;
+    border-radius: 10% 0%;
+}
